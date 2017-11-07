@@ -1,0 +1,4 @@
+Stake
+Chicken
+Fish
+Pasta
